@@ -1,0 +1,171 @@
+/* GENERAL */
+
+main {
+  max-width: 100%;
+  max-height: 60rem;
+  margin-bottom: 1.5rem;
+}
+
+.aboveFooter {
+  padding: 6.4rem 16.5rem 15rem 16.5rem;
+  width: 100%;
+
+  color: #33323d;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+
+  padding: 0 0;
+}
+
+/* GENERAL */
+
+/* MAIN  */
+
+.hero {
+  height: 60rem;
+  width: 100%;
+
+  background-image: url(../../../assets/portfolio/bookmark/image-bookmark-hero.jpg);
+  background-size: cover;
+}
+
+/* MAIN  */
+
+/* PROJECT SECTION */
+
+.portfolios {
+  display: flex;
+  gap: 12.5rem;
+
+  height: 119.2rem;
+  width: 100%;
+
+  margin-bottom: 6.4rem;
+}
+
+.about {
+  height: 50rem;
+  width: 100%;
+  padding: 4.8rem 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  border-top: 0.1rem solid rgba(51, 50, 61, 0.15);
+  border-bottom: 0.1rem solid rgba(51, 50, 61, 0.15);
+}
+
+.about2 {
+  max-height: 119.2rem;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.preview {
+  max-height: 40rem;
+  width: 100%;
+}
+
+.photo1 {
+  margin-top: 3.2rem;
+}
+
+.title {
+  margin-bottom: 2.4rem;
+}
+
+.text {
+  margin-bottom: 5.4rem;
+}
+
+.title2 {
+  margin-bottom: 2.4rem;
+}
+
+.text2 {
+  margin-bottom: 5.4rem;
+}
+
+.title3 {
+  font-size: 3.2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 3.6rem;
+  letter-spacing: -0.2857142984867096rem;
+}
+
+.text3 {
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 3rem;
+  letter-spacing: 0;
+  opacity: 50%;
+}
+
+.a {
+  text-decoration: underline;
+}
+
+.lan,
+.lan1 {
+  color: rgba(95, 180, 162, 1);
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 3rem;
+}
+
+.lan1 {
+  margin-top: 1.6rem;
+  margin-bottom: 3.2rem;
+}
+
+.link2 {
+  padding: 1.7rem 2.8rem;
+
+  border: 0.1rem solid black;
+}
+
+.middleNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 13.2rem;
+  width: 111rem;
+  margin-bottom: 11.5rem;
+
+  border-top: 0.1rem solid rgba(51, 50, 61, 0.15);
+  border-bottom: 0.1rem solid rgba(51, 50, 61, 0.15);
+
+  padding: 4.8rem 0;
+}
+
+.footer {
+  width: 100%;
+}
+
+.arrows {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3.2rem;
+}
+
+.navs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* PROJECT SECTION */

@@ -1,0 +1,80 @@
+/* GENERAL */
+
+.t1 {
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: -0.4464285671710968px;
+}
+
+/* GENERAL */
+
+/* --------------------------------- */
+
+/* HEADER */
+
+.links {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+.link1 {
+  text-decoration: none;
+  color: white;
+
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+/* HEADER */
+
+/* --------------------------------- */
+
+/* MAIN */
+
+.link2 {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+/* MAIN */
+
+/* --------------------------------- */
+
+/* CONTACT SECTION */
+
+.link3 {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+/* CONTACT SECTION */
+
+/* --------------------------------- */
+
+/* FOOTER */
+
+.downMenu a {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 2px;
+
+  color: white;
+}
+
+/* FOOTER */
