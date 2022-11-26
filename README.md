@@ -1,4 +1,4 @@
-# Modelo estático de uma página de portfólio.
+# Modelo estático de um site de portfólio.
 
 ## Um modelo estático de um site de portfólio com exemplos de projetos inexistentes.
 
@@ -37,3 +37,10 @@
 <img src="./mdAssets/portStaticFylo1.jpg">
 <img src="./mdAssets/portStaticFylo2.jpg">
 <img src="./mdAssets/portStaticFylo3.jpg">
+
+
+## Como visualizar o projeto localmente:
+    - Baixe o repositório localmente
+    - Simplesmente execute o arquivo "index.html" no seu navegador
+
+## Obrigado pela boa vontade.
