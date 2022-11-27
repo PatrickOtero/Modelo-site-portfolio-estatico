@@ -34,7 +34,7 @@
 <img src="./mdAssets/portStaticInsure3.jpg">
 
 ## Página "Fylo"
-<img src="./mdAssets/portStaticFylo1.jpg">
+<img src="./mdAssets/portStaticFylo.jpg">
 <img src="./mdAssets/portStaticFylo2.jpg">
 <img src="./mdAssets/portStaticFylo3.jpg">
 
