@@ -29,7 +29,7 @@
 <img src="./mdAssets/portStaticBookmark3.jpg">
 
 ## Página "Insure"
-<img src="./mdAssets/portStaticInsure1.jpg">
+<img src="./mdAssets/portStaticInsure.jpg">
 <img src="./mdAssets/portStaticInsure2.jpg">
 <img src="./mdAssets/portStaticInsure3.jpg">
 
